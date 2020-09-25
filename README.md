@@ -1,6 +1,7 @@
 # hello-world
-just a  new repository
 
-Hi humans
-this is my first experience with git
-i like to learn new shit
+## Just a  new repository
+
+Hi Humans!
+This is my first experience with git and github.
+I like to learn new stuff.
